@@ -40,9 +40,9 @@ body{
 
 form .display input{
   border: 1px solid ;
-  width: auto;
+  width: 240px;
   height: 3em;
-  margin:0;
+  margin: 0px;
   border-radius: 5px;
   text-align: right;
   box-shadow: none;
